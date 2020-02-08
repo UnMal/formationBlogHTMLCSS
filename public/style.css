@@ -2,23 +2,23 @@ html{
 	background-image: url('ressource/images/00.jpg');
 	color: red;
 }
+
 #bisection{
 	width: 60%;
 	margin: auto;
 }
+
 #hf{
 	height: 30%;
 	width: 80%;
 	margin: auto;
 	background-image: url('ressource/images/02.jpg');
 }
+
 #t1{
 	font-size: 80px;
 	padding-right: 30%;
 }
-
-
-
 
 .sac{
 	height: 160px;
